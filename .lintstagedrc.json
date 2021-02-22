@@ -1,0 +1,4 @@
+{
+  "*.ts": ["eslint --format table --max-warnings=0"],
+  "*.scss": "npm run lint-css"
+}
